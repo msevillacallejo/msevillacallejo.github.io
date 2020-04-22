@@ -1,0 +1,18 @@
+/* estilo del cuerpo de la página */
+  body {
+    background-color: lightyellow;
+    color: black;
+    }
+
+/* estilo de head1 o título1 */
+
+
+/* estableciendo clases */
+
+/* estilo1 */
+  .estilo1 {font-family: sans-serif; text-align: center}
+
+/* estilo 2 */
+  .estilo2 {font-family: serif; text-align: right}
+
+
